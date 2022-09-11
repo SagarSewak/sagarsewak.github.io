@@ -671,6 +671,8 @@ a:hover {
 //--//-->   ABOUT
 ======================================*/
 
+
+
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -682,6 +684,8 @@ a:hover {
 
 .about-mf .about-img img {
   margin-left: 10px;
+  /* margin-right: 10px; */
+  
 }
 
 .skill-mf span {
@@ -783,6 +787,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  height: 200px;
 }
 
 .work-img img {
