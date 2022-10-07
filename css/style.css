@@ -267,6 +267,8 @@ a:hover {
 
 /*------/ Owl Carousel /------*/
 
+
+
 .owl-theme .owl-dots {
   text-align: center;
   margin-top: 18px;
@@ -844,6 +846,7 @@ a:hover {
 
 .testimonial-box .author-test img {
   margin: 0 auto;
+  height: 175px;
 }
 
 .testimonial-box .author {
